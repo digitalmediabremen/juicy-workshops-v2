@@ -38,12 +38,20 @@ No previous knowledge is needed.
 
 ------------------
 
-__Language__: English  
+Language: English
 
-__Where__: at Hfk Speicher XI - Room number will be announced on the week before each workshop.
+Where: at Hfk Speicher XI - Room number will be announced on the week before each workshop.
 
-__Time__: Always on Saturdays & Sundays, 14:00h-18:00h.
+Time: Always on Saturdays & Sundays, 14:00h-18:00h.
 
-__Max Participants__: 15 per workshop.
+Max Participants: 15 per workshop. All students, Bachelor, Master, Uni or HfK are welcome to apply.
 
-__Inscription__: register via this e-mail with desired workshop.
+Registration: register via studio-dm@hfk-bremen.de with desired workshop.
+
+Organizers: Julia Vollmer, Alberto Harres
+
+Poster: Lucy Savelyeva
+
+Stay tuned! More detailed information will be sent to all participants one week before the workshop.
+
+Any questions or doubts feel free to contact us at studio-dm@hfk-bremen.de, aharres@hfk-bremen.de or jvollmer@hfk-bremen.de
