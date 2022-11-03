@@ -28,7 +28,7 @@ Requirements:
 
 Laptop - Windows or Mac (at least 8GB memory, discrete graphics best but not obligatory) Installed TouchDesigner 2022/26590 or newer (https://derivative.ca/download/archive), the free version is okay.
 
-## [10.11-11.12] DIY AtariPunk Console, by Juan Camilo Valbuena
+## [10.11-11.12] DIY AtariPunk Console, by Juan Luque
 
 Hello, my name is Juan and I want to show you how I build electronic stuff. This time I would like to build a sound oscillator with you. The Ataripunk Console, first designed by Forrest Mims, is a very popular beginner level electronics project. The circuit is a simple square wave oscillator using two 555 timers (what the hell is a 555 timer?). We will learn how to read schematics, get basic understanding of sound waves, prototype a circuit, design a printed circuit board (PCB), solder, and design a house for the instrument. No previous experience required!
 
