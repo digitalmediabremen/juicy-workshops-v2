@@ -1,4 +1,4 @@
-![](Juicy_Workshops_2_Poster_smaller.jpg)
+![](Juicy_Workshops_2_Poster_A2_small.jpg)
 
 # Digital Media Juicy Workshops 2.0
 
@@ -20,7 +20,7 @@ We want to improve our documentation skills to make our works look nice on the i
 
 Any (fun) object you want to train documenting with, software for (more or less professional) video and photo editing, your camera (smartphone camera works too), camera tripod, and so on.
 
-## [03.11–04.12] Touchdesigner Fun Basics, by Slava Romanov
+## [03.12–04.12] Touchdesigner Fun Basics, by Slava Romanov
 
 Welcome to the world of visual programming! In this two-day intensive workshop you will learn the interface and basic elements of Derivative TouchDesigner, and create and present compact projects of your choice. On the eve of the workshop, you will have to fill out a short questionnaire - tell about your background and choose a mini-project for your interest - generative graphics, sensors, sound and other interesting things. Come if you're ready to have a fun time and discover a new tool (or learn more about it)!
 
@@ -28,7 +28,7 @@ Requirements:
 
 Laptop - Windows or Mac (at least 8GB memory, discrete graphics best but not obligatory) Installed TouchDesigner 2022/26590 or newer (https://derivative.ca/download/archive), the free version is okay.
 
-## [10.11-11.12] DIY AtariPunk Console, by Juan Luque
+## [10.12-11.12] DIY AtariPunk Console, by Juan Luque
 
 Hello, my name is Juan and I want to show you how I build electronic stuff. This time I would like to build a sound oscillator with you. The Ataripunk Console, first designed by Forrest Mims, is a very popular beginner level electronics project. The circuit is a simple square wave oscillator using two 555 timers (what the hell is a 555 timer?). We will learn how to read schematics, get basic understanding of sound waves, prototype a circuit, design a printed circuit board (PCB), solder, and design a house for the instrument. No previous experience required!
 
