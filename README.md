@@ -1,4 +1,4 @@
-![](Juicy_Workshops_2_Poster_A2_small.jpg)
+![](Juicy_Workshops_2_Poster_A2_small.png)
 
 # Digital Media Juicy Workshops 2.0
 
